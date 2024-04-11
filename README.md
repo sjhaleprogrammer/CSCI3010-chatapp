@@ -10,16 +10,9 @@ This is an application that allows users to chat with each other.
 
 ## Features
 
-Threads and sockets are used in this application.
-
 Allows multiple users to chat with each other.
 
 Each user has their own socket and thread.
-
-Default 127.0.0.1 is used.
-
-Default port is 12345.
-
 
 
 ## Dependencies
@@ -35,6 +28,8 @@ Default port is 12345.
 start the server. 
 - python server.py
 enter ip address and port.
+
+note: 127.0.0.1 is the default IP and 12345 is the default port.
 
 
 start as many clients as you want i don't know the limitations.
