@@ -1,4 +1,8 @@
-#Chat Application for CSCI 3010 Computer Networks
+# Chat Application for CSCI 3010 Computer Networks
+
+![Screenshot 2024-04-10 221237](https://github.com/sjhaleprogrammer/CSCI3010-chatapp/assets/60676867/4bf31eae-5a7c-47ca-a1a0-e40257434065)
+
+
 
 ## Overview
 
